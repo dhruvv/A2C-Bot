@@ -1,6 +1,6 @@
 const tools = {
 	config: {
-		token: 'ODI4NzIyNTQ5NjMwMTczMjQ0.YGtuBA.teG6AoeF2cc1O1kSl_uEtQLMOKk',
+		token: 'ODI4NzIyNTQ5NjMwMTczMjQ0.YGtuBA.eb8XR9cgbVWuVf9ak_tikyH0BUM',
 		serverId: '786557653924708373',
 		channels: {
 			rulesChannel: '786558519717265418',
