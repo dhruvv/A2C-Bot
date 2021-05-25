@@ -21,7 +21,7 @@ const tools = {
 		searchReactionEmoji: '✅'
 	},
 	dev: {
-		apiKey: 'iH7HxaJhrzl6tEVj6XSNKhYYlsgs0jtEraj6nd5O'
+		apiKey: ''
 	}
 };
 
